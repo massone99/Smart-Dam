@@ -1,0 +1,1 @@
+class BluetoothDeviceNotFound : Exception()
